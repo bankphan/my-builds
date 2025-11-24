@@ -12,4 +12,5 @@ This repository organizes and links to all my builds, where I transform concepts
 
 ## 📁 Website Developmenet project
 
-- [Amazon clone website](https://vercel.com/bkphans-projects/amazon-clone-website) - November 2025
+- [Amazon clone website](https://amazon-clone-website-nu.vercel.app/) - November 2025
+- [Resume website]() -- November 2025
